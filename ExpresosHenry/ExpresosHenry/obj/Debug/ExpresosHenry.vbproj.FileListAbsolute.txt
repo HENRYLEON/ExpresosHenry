@@ -1,0 +1,60 @@
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\bin\Debug\ExpresosHenry.exe.config
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\bin\Debug\ExpresosHenry.exe
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\bin\Debug\ExpresosHenry.pdb
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\bin\Debug\ExpresosHenry.xml
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.Form1.resources
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.Resources.resources
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.vbproj.GenerateResource.Cache
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.exe
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.xml
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.pdb
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_Tickets.resources
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_Clientes.resources
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_GesClientes.resources
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\bin\Debug\ExpresosHenry.exe.config
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.exe
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.xml
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.pdb
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\bin\Debug\ExpresosHenry.exe
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\bin\Debug\ExpresosHenry.pdb
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\bin\Debug\ExpresosHenry.xml
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.Form1.resources
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.Resources.resources
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_Clientes.resources
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_GesClientes.resources
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_Tickets.resources
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.vbproj.GenerateResource.Cache
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_Vehiculos.resources
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_GesVehiculos.resources
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_Conductores.resources
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_GesUsuario.resources
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.vbprojResolveAssemblyReference.cache
+D:\Projects Visual Estudio\otras expresos\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_GesTickets.resources
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\bin\Debug\ExpresosHenry.exe.config
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.xml
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.Form1.resources
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.Resources.resources
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_Clientes.resources
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_Conductores.resources
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_GesClientes.resources
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_GesTickets.resources
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_GesUsuario.resources
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_GesVehiculos.resources
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_Tickets.resources
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_Vehiculos.resources
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.vbproj.GenerateResource.Cache
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\bin\Debug\ExpresosHenry.exe
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\bin\Debug\ExpresosHenry.pdb
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\bin\Debug\ExpresosHenry.xml
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.exe
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.pdb
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_Options.resources
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_Conductores.resources
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_GesTickets.resources
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_GesUsuario.resources
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_GesVehiculos.resources
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_Options.resources
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_Vehiculos.resources
+D:\Projects Visual Estudio\Visual Basic\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.vbprojResolveAssemblyReference.cache
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.vbprojResolveAssemblyReference.cache
+D:\Henry\Archivos de Apoyo\Personal\ExpresosHenry\ExpresosHenry\obj\Debug\ExpresosHenry.frm_Detalle.resources
